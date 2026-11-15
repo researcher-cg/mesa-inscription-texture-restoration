@@ -30,10 +30,6 @@ Five datasets are used, three of Ancient Greek and two of Latin inscriptions. Th
 
 https://drive.google.com/file/d/1cdpitRfraO1QmyQnqSRVv_I3tkeU9fv_/view?usp=sharing
 
-**Training pairs** (damaged–clean pairs used to train DnCNN, DRUNet, ESRGAN, and the diffusion model used by RePaint and DDRM):
-
-PAIRS_LINK
-
 Password: PAIRS_PASSWORD
 
 ## Dataset Insights
