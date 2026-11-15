@@ -43,7 +43,6 @@ Password: PAIRS_PASSWORD
 
 ### Dataset B
 ![Dataset B collage](Images/Processed/collage_aea_OURS.png)
-
 *Dataset B (Ancient Greek) used as exemplars in MESA or as ground truth in techniques that require supervised learning.*
 
 ---
